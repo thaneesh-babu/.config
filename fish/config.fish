@@ -3,3 +3,4 @@ if status is-interactive
     alias python="python3"
 end
 starship init fish | source
+export GEM_HOME="$HOME/.gem"
