@@ -9,7 +9,7 @@
 
 call plug#begin()
 
-Plug 'http://github.com/tpope/vim-surround' " Surrounding ysw)
+Plug 'http://github.com/tpope/vim-surround' " Surrounding pairs
 Plug 'https://github.com/preservim/nerdtree' " NerdTree
 Plug 'https://github.com/tpope/vim-commentary' " For Commenting gcc & gc
 Plug 'https://github.com/vim-airline/vim-airline' " Status bar
