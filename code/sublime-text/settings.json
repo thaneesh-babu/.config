@@ -1,0 +1,12 @@
+{
+    "font_face": "Fira Code",
+    "font_options": [
+        "gray_antialias"
+    ],
+    "font_size": 12,
+    "ignored_packages": [
+        "Vintage",
+    ],
+    "theme": "Material Augmented Reaction.sublime-theme",
+    "color_scheme": "Packages/Theme - Cyanide/Monocyanide - Black.tmTheme",
+}
