@@ -1,0 +1,56 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+      "/.classpath": true,
+      "/.project": true,
+      "/.settings": true,
+      "/.factorypath": true
+    },
+    "workbench.statusBar.visible": false,
+    "sonarlint.rules": {
+      "Web:PageWithoutTitleCheck": {
+        "level": "off"
+      },
+      "typescript:S4123": {
+        "level": "off"
+      },
+      "javascript:S1186": {
+        "level": "off"
+      },
+      "javascript:S1488": {
+        "level": "off"
+      },
+      "javascript:S1117": {
+        "level": "off"
+      }
+    },
+    "git.enableSmartCommit": true,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 18,
+    "workbench.colorTheme": "GitHub Dark Default",
+    "discord.lowerDetailsDebugging": "Workspace: {workspace}",
+    "discord.detailsEditing": "Editing {file_name} ",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "latex-workshop.view.pdf.viewer": "browser",
+    "bracketPairColorizer.depreciation-notice": false,
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": -1,
+    "explorer.confirmDelete": false,
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }
