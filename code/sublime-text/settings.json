@@ -3,10 +3,10 @@
     "font_options": [
         "gray_antialias"
     ],
-    "font_size": 12,
+    "color_scheme": "ayu-dark.sublime-color-scheme",
     "ignored_packages": [
         "Vintage",
     ],
-    "theme": "Material Augmented Reaction.sublime-theme",
-    "color_scheme": "Packages/Theme - Cyanide/Monocyanide - Black.tmTheme",
+    "theme": "GitHub Dark.sublime-theme",
+    "font_size": 16
 }
