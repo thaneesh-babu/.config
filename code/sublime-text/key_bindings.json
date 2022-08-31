@@ -7,7 +7,7 @@
     },
     {
         "keys": [
-            "ctrl+b"
+            "ctrl+shift+b"
         ],
         "command": "toggle_side_bar"
     },
@@ -34,5 +34,11 @@
             "ctrl+k+o"
         ],
         "command": "prompt_open_folder"
+    },
+    {
+        "keys": [
+            "ctrl+b+l"
+        ],
+        "command": "Build With: LaTeX"
     }
 ]
