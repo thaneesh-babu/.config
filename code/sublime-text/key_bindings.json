@@ -1,44 +1,15 @@
 [
-    {
-        "keys": [
-            "ctrl+shift+s"
-        ],
-        "command": "auto_save"
+      { "keys": ["ctrl+shift+s"], "command": "auto_save" },
+      { "keys": ["ctrl+shift+b"], "command": "toggle_side_bar" },
+      { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" },
+      { "keys": ["ctrl+n"], "command": "new_window" },
+      { "keys": ["ctrl+w"], "command": "close_file" },
+      { "keys": ["ctrl+o"], "command": "prompt_open_file" },
+      { "keys": ["ctrl+k+o"], "command": "prompt_open_folder" },
+      { "keys": ["ctrl+b+l"], "command": "Build With: LaTeX" },
+      {
+        "keys": ["ctrl+,"],
+        "command": "terminus_open"
     },
-    {
-        "keys": [
-            "ctrl+shift+b"
-        ],
-        "command": "toggle_side_bar"
-    },
-    {
-        "keys": [
-            "ctrl+shift+t"
-        ],
-        "command": "reopen_last_file"
-    },
-    {
-        "keys": [
-            "ctrl+w"
-        ],
-        "command": "close_file"
-    },
-    {
-        "keys": [
-            "ctrl+o"
-        ],
-        "command": "prompt_open_file"
-    },
-    {
-        "keys": [
-            "ctrl+k+o"
-        ],
-        "command": "prompt_open_folder"
-    },
-    {
-        "keys": [
-            "ctrl+b+l"
-        ],
-        "command": "Build With: LaTeX"
-    }
+      { "keys": ["ctrl+m"], "command": "terminus_close", "context": [{ "key": "terminus_view"}]}
 ]
