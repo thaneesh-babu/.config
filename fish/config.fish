@@ -4,3 +4,4 @@ if status is-interactive
 end
 starship init fish | source
 export GEM_HOME="$HOME/.gem"
+test -s /home/thans/.nvm/nvm.fish; and source /home/thans/.nvm/nvm.fish
