@@ -206,6 +206,13 @@ bindsym $mod+r mode "resize"
 #         position top
 # }
 
+# scratchpad
+
+# Make the currently focused window a scratchpad
+bindsym $mod+Shift+minus move scratchpad
+
+# Show the first scratchpad window
+bindsym $mod+minus scratchpad show
 
 # class                 border  backgr. text    indicator child_border
 client.focused          #005d96 #005d96  #005d96   #005d96 #005d96
