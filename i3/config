@@ -240,3 +240,6 @@ exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 # greenclip launch
 bindsym $mod+c exec rofi -modi "clipboard:greenclip print" -show clipboard -run-command '{cmd}'
 exec_always --no-startup-id greenclip daemon
+
+exec xinput set-prop "MSFT0004:00 04F3:31BE Touchpad" "libinput Tapping Enabled
+" 1
